@@ -1,8 +1,8 @@
 import cx_Oracle
 import xml.etree.ElementTree as ET
 
-user = "s97629"
-password = "ArBcsGE3PhntcJPo"
+user = "login"
+password = "password"
 
 options = {
     1: "Export",
